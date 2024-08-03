@@ -13,7 +13,7 @@
 
 <h3 align="center">Contact Me:</h3>
 <p align="center">
-    <a href="https%3A%2F%2Fwww.linkedin.com%2Fin%2Fkyle-soni-581636170%2F">
+    <a href="https://www.linkedin.com/in/kyle-soni-581636170">
         <img alt="Static Badge" src="https://img.shields.io/badge/kyle soni-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
     <a href="mailto:kylesoni2142@gmail.com">
